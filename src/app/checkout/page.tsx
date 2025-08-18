@@ -62,8 +62,8 @@ export default function CheckoutPage() {
           <div className="max-w-7xl mx-auto px-4">
             <div className="flex justify-center">
               <Link href="/" className="inline-block">
-                <Image
-                  src="/logo.avif"
+                  <Image
+                    src="/pasand-logo.svg"
                   alt="Broncoo Logo"
                   width={120}
                   height={40}
@@ -120,8 +120,8 @@ export default function CheckoutPage() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex justify-center">
             <Link href="/" className="inline-block">
-              <Image
-                src="/logo.avif"
+                <Image
+                  src="/pasand-logo.svg"
                 alt="Broncoo Logo"
                 width={120}
                 height={40}

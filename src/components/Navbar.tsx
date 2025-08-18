@@ -63,7 +63,7 @@ export default function Navbar({ isProductPage = false }: NavbarProps) {
                     {/* Logo */}
                     <div className="flex items-center">
                         <Image
-                            src="/logo.avif"
+                                src="/pasand-logo.svg"
                             alt="Logo"
                             width={80}
                             height={80}
@@ -294,7 +294,7 @@ export default function Navbar({ isProductPage = false }: NavbarProps) {
                     {/* Logo */}
                     <div className="flex items-center">
                         <Image
-                            src="/logo.avif"
+                                src="/pasand-logo.svg"
                             alt="Logo"
                             width={120}
                             height={120}
