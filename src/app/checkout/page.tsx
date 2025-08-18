@@ -63,8 +63,8 @@ export default function CheckoutPage() {
             <div className="flex justify-center">
               <Link href="/" className="inline-block">
                 <Image
-                  src="/logo.avif"
-                  alt="Broncoo Logo"
+                  src="/pasand-logo.svg"
+                  alt="Logo"
                   width={120}
                   height={40}
                   className="h-10 w-auto"
@@ -121,8 +121,8 @@ export default function CheckoutPage() {
           <div className="flex justify-center">
             <Link href="/" className="inline-block">
               <Image
-                src="/logo.avif"
-                alt="Broncoo Logo"
+                src="/pasand-logo.svg"
+                alt="Logo"
                 width={120}
                 height={40}
                 className="h-10 w-auto"

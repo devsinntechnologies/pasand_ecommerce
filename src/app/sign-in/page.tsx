@@ -22,7 +22,7 @@ export default function SignInPage() {
       <div className="mb-8">
         <Link href="/">
           <img
-            src="/logo.avif"
+                            src="/pasand-logo.svg"
             alt="Logo"
             className="h-16 w-auto mx-auto"
             style={{ maxHeight: 64 }}
