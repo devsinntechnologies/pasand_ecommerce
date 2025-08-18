@@ -63,7 +63,7 @@ export default function CheckoutPage() {
             <div className="flex justify-center">
               <Link href="/" className="inline-block">
                 <Image
-                  src="/pasand-logo.svg"
+                                     src="/pasand-logo.svg"
                   alt="Logo"
                   width={120}
                   height={40}
