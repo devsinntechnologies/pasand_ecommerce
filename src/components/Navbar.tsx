@@ -63,7 +63,7 @@ export default function Navbar({ isProductPage = false }: NavbarProps) {
                     {/* Logo */}
                     <div className="flex items-center">
                         <Image
-                            src="/pasand-logo.svg"
+                                src="/pasand-logo.svg"
                             alt="Logo"
                             width={80}
                             height={80}

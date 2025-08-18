@@ -21,8 +21,8 @@ export default function SignInPage() {
       {/* Logo */}
       <div className="mb-8">
         <Link href="/">
-          <img
-            src="/pasand-logo.svg"
+            <img
+              src="/pasand-logo.svg"
             alt="Logo"
             className="h-16 w-auto mx-auto"
             style={{ maxHeight: 64 }}
